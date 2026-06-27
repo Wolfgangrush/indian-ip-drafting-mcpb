@@ -1,3 +1,19 @@
+<div align="center">
+
+<img src="docs/banner.png" width="820"/>
+
+**A six-agent drafting pipeline for India's IP forums — the Trade Marks Registry, the Patent Office, and the IP Divisions of the High Courts.**
+
+Visit the live site: [wolfgangrush.github.io](https://wolfgangrush.github.io)
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+&nbsp;![Claude plugin · MCPB](https://img.shields.io/badge/Claude-plugin%20%C2%B7%20MCPB-blue)
+&nbsp;![Jurisdiction: India](https://img.shields.io/badge/jurisdiction-India-orange)
+&nbsp;![Pipeline: 6 agents](https://img.shields.io/badge/pipeline-6%20agents-purple)
+
+</div>
+
+
 # wolfgang_rush — Indian IP Drafting
 
 **MCPB Desktop Extension** for Indian advocates using Claude Desktop App. Local-execution. Zero data collection.
